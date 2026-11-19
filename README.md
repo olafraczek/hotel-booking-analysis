@@ -15,7 +15,6 @@ An analysis of **119,390 real hotel bookings** (July 2015 – August 2017) from 
 | `01_exploratory_analysis.ipynb` | data quality, missing values, descriptive statistics, interactive visualisations (Plotly) |
 | `02_statistical_inference.ipynb` | hypothesis testing, bootstrap, ANOVA |
 
-Rendered HTML versions are in `reports/`.
 
 ## Research questions & answers
 

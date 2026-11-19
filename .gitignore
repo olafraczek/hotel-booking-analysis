@@ -224,3 +224,6 @@ __marimo__/
 
 # Data (download from Kaggle, see README)
 *.csv
+
+# Rendered HTML reports (kept locally)
+reports/
